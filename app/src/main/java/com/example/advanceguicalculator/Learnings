@@ -1,0 +1,9 @@
+Dependency
+     *) exp4j
+        to convert the string and evaluate we will be using exp4j (EvaluationBuilder)
+                       ----Use Cases in Android----
+                      1) Calculators: Implementing scientific or financial calculators.
+                      2)Formulas: Evaluating user-defined formulas or settings in apps.
+                      3)Data Analysis: Computing complex statistics or metrics.
+                      4)Games: Dynamic computations for gameplay mechanics.
+                     ----
